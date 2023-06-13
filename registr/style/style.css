@@ -1,0 +1,26 @@
+.main a{
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    background: silver;
+    border-radius: 5px;
+    display: inline-block;
+}
+div{
+    margin: 5px 0;
+}
+span{
+    color: red;
+}
+img{
+    width: 200px;
+}
+
+.field{
+    border-bottom: 2px solid blue;
+}
+.field span{
+    color: brown;
+    font-weight: bold;
+}
